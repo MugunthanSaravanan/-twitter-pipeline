@@ -6,7 +6,6 @@ Here we will be building out a Twitter Scheduler data pipeline, the idea is to c
 - Make a Twitter Scheduler Data Pipeline.
 - Understand how Airflow works on Docker
 
-### To learn more about it follow my Medium blog [here](https://medium.com/p/twitter-data-pipeline-using-apache-airflow-24e0881c214d?source=email-f17526e917b6--writer.postDistributed&sk=3fdccd5247579187f0d37b083d2f1dda) :point_left: :books:
 
 ## Pre-Requisites
 
